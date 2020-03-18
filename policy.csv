@@ -1,0 +1,2 @@
+p, common, /v1/admin/manager/:id, PUT
+g, admin, common
